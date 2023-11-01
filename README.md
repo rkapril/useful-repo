@@ -7,5 +7,7 @@
 6. https://github.com/github/gitignore
 7. https://github.com/awesome-selfhosted/awesome-selfhosted
 8. https://github.com/MunGell/awesome-for-beginners
+## API
+1. https://rapidapi.com/hub
 ## Security
 1. https://www.base64decode.org/
